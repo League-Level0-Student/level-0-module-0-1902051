@@ -6,8 +6,6 @@ public class knock {
 		JOptionPane.showMessageDialog(null, "WHO DARES TO COME");
 		JOptionPane.showMessageDialog(null, "Boo");
 		JOptionPane.showMessageDialog(null, "BOO WHO?");
-		JOptionPane.showMessageDialog(null, "Uh kid? Why are you crying");
-		JOptionPane.showMessageDialog(null, "Good to meat you, " + name);
-
+		JOptionPane.showMessageDialog(null,  "Why are you crying");
 	}
 }
